@@ -1,5 +1,5 @@
 <div style="max-width: 300px; overflow: hidden;">
-    <img src="https://github.com/Team-WSS/WSS-Android/assets/127238018/dee4ef8c-4aa3-4e80-a123-c46e368da066" style="width: 100%; height: auto;">
+    <img src="https://github.com/like-comment-subscribe-and-Algorithm/junseoTV/assets/127238018/fd754c32-88b1-4174-a317-02affce6ff7f" style="width: 100%; height: auto;">
 </div>
 
 <div style="max-width: 300px; overflow: hidden;">
