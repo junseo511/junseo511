@@ -3,7 +3,7 @@
 </div>
 
 <div style="max-width: 300px; overflow: hidden;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SimSaSukGo&fontSize=80" style="width: 100%; height: auto;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GongBaek&fontSize=80" style="width: 100%; height: auto;">
 </div>
 
 
