@@ -9,14 +9,14 @@
 
 
 <div align="center">
-  <h1>🧑‍💻 Blogs</h1>
+  <h1>🧑‍💻 Community</h1>
 </div>
 <div align="center">
     <a href="https://velog.io/@cjs8876">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
         </a>
-    <a href="https://blog.naver.com/prime54">
-        <img src="https://img.shields.io/badge/naver-ffffff?style=for-the-badge&logo=naver&logoColor=black"> 
+    <a href="https://www.linkedin.com/in/junseo511/">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge"> 
         </a>
 </div><br>
 
@@ -43,19 +43,9 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-ffa200?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/python-ffa200?style=for-the-badge&logo=python&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/c-767676?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/mongoDB-4DB33D?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/unix-FCC624?style=for-the-badge&logo=unix&logoColor=black"> 
-  <br>
-  <img src="https://img.shields.io/badge/unreal engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/r-3463b1?style=for-the-badge&logo=r&logoColor=white">
 </div>
